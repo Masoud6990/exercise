@@ -1,3 +1,3 @@
 # exercise
-## Editting the file
-This is just to see what happens when I'm working with the Github
+## Editing the file
+This is to see what happens when I'm working with the GitHub
